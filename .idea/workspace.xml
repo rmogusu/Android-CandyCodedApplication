@@ -69,7 +69,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit.com in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -188,8 +188,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit.com in app" />
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
       </list>
@@ -225,22 +225,22 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="452" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.1294.741@72.27.1294.741" timestamp="1601043015678" />
-    <state width="931" height="377" key="GridCell.Tab.0.bottom" timestamp="1601120880410">
+    <state width="931" height="377" key="GridCell.Tab.0.bottom" timestamp="1601123904582">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="931" height="377" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1601120880410" />
-    <state width="931" height="377" key="GridCell.Tab.0.center" timestamp="1601120880409">
+    <state width="931" height="377" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1601123904582" />
+    <state width="931" height="377" key="GridCell.Tab.0.center" timestamp="1601123904581">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="931" height="377" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1601120880409" />
-    <state width="931" height="377" key="GridCell.Tab.0.left" timestamp="1601120880409">
+    <state width="931" height="377" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1601123904581" />
+    <state width="931" height="377" key="GridCell.Tab.0.left" timestamp="1601123904581">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="931" height="377" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1601120880409" />
-    <state width="931" height="377" key="GridCell.Tab.0.right" timestamp="1601120880410">
+    <state width="931" height="377" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1601123904581" />
+    <state width="931" height="377" key="GridCell.Tab.0.right" timestamp="1601123904581">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state width="931" height="377" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601120880410" />
+    <state width="931" height="377" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1601123904581" />
     <state width="931" height="205" key="GridCell.Tab.1.bottom" timestamp="1601045533764">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
